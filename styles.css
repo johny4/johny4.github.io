@@ -82,8 +82,8 @@ a:hover {
 
 .post, .about {
  max-width: 800px;
- margin: auto;
- padding 85px 0;
+ margin: 0;
+ padding 60px 0;
 }
 
 .about {
